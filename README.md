@@ -12,15 +12,15 @@ It’s designed as a complete example for managing data with both a web interfac
 
 ### **Web Dashboard** (Laravel Blade)
 
-* ➕ Create new records
-* 📜 View all records
-* ✏️ Edit existing records
-* ❌ Delete records
-* 🔐 Admin login system
+* ➕ Create new records.
+* 📜 View all records.
+* ✏️ Edit existing records.
+* ❌ Delete records.
+* 🔐 Admin login system.
 
 ### **Mobile API** (Laravel API)
 
-* 📥 Retrieve and display all records
-* ❤️ Add items to user favorites
-* 📂 View favorite items
-* 🗑 Remove items from favorites
+* 📥 Retrieve and display all records.
+* ❤️ Add items to user favorites.
+* 📂 View favorite items.
+* 🗑 Remove items from favorites.
