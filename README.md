@@ -19,7 +19,7 @@ It’s designed as a complete example for managing data with both a web interfac
 * 🔐 Admin login system.
 
 ### **Mobile API** (Laravel API)
-
+ 
 * 📥 Retrieve and display all records.
 * ❤️ Add items to user favorites.
 * 📂 View favorite items.
