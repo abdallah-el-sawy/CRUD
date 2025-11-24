@@ -35,7 +35,7 @@ It enables chefs to share and manage their unique recipes efficiently, with a **
 ---
 
 ## Preview
-https://abdallah-el-sawy.github.io/CRUD/ITIFinalProject/FinalProject/recipe
+https://abdallah-el-sawy.github.io/CRUD/
 
 
 **Note:**
